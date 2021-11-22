@@ -1,0 +1,19 @@
+
+    li{
+        color:rgb(255, 9, 9);
+        text-align:unset;
+        text-shadow: cyan;
+    }
+    img {
+        width:"800px";
+        height:"400px";
+    }
+    .country{
+        font-family: 'Times New Roman';
+        
+        text-align:end;
+    }
+
+    #division1{
+
+    }
